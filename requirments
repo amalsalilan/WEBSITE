@@ -1,0 +1,25 @@
+ Hardware and Software Specification
+
+Hardware Configuration Used:
+Processor		 : Intel Pentium Dual Core
+RAM			 : 1GB or Above
+Hard Disk Drive               : 40GB or Above
+Speed                                 : Above 1.5GHz
+CPU                                     : p3 or p4 etc
+Monitor                              : Mono or color.
+
+Software Specification
+3.1 HARDWARE REQUIREMENTS
+PROCESSOR          	  : INTEL QUADCOREPROCESSOR and above
+INPUT DEVICE   	  : MOUSE,KEYBOARD
+OUTPUT DEVICE  	  : MONITOR
+MEMORY               	  : 512 MB RAM (MINIMUM)
+3.2 SOFTWARE REQUIREMENTS
+SOFTWARES USED 	: MACROMEDIA DREAMWEAVER 8,
+  WAMP SERVER
+OPERATING SYSTEM   	: WINDOWS XP and above
+: WAMP SERVER
+FRONT END			: PHP,HTML
+BACK END			: MySQL
+WEB BROWSER		: GOOGLE CHROME,MOZILL           
+
