@@ -60,7 +60,7 @@ class PHPMailerTest extends PHPUnit_Framework_TestCase
      * Default include path
      * @var string
      */
-    const INCLUDE_DIR = '../';
+    public const INCLUDE_DIR = '../';
 
     /**
      * Run before each test is started.
