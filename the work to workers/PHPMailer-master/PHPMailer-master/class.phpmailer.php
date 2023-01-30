@@ -617,28 +617,28 @@ class PHPMailer
     /**
      * Error severity: message only, continue processing.
      */
-    const STOP_MESSAGE = 0;
+    public const STOP_MESSAGE = 0;
 
     /**
      * Error severity: message, likely ok to continue processing.
      */
-    const STOP_CONTINUE = 1;
+    public const STOP_CONTINUE = 1;
 
     /**
      * Error severity: message, plus full stop, critical error reached.
      */
-    const STOP_CRITICAL = 2;
+    public const STOP_CRITICAL = 2;
 
     /**
      * SMTP RFC standard line ending.
      */
-    const CRLF = "\r\n";
+    public const CRLF = "\r\n";
 
     /**
      * The maximum line length allowed by RFC 2822 section 2.1.1
      * @var integer
      */
-    const MAX_LINE_LENGTH = 998;
+    public const MAX_LINE_LENGTH = 998;
 
     /**
      * Constructor.
