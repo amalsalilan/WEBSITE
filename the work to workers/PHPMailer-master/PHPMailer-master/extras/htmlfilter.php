@@ -740,8 +740,6 @@ function tln_fixstyle($body, $pos, $trans_image_path, $block_external_images)
      */
     $content = preg_replace("|body(\s*\{.*?\})|si", ".bodyclass\\1", $content);
 
-    $trans_image_path = $trans_image_path;
-
     /**
     * Fix url('blah') declarations.
     */
